@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 ### GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=scharde&theme=tokyonight&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=scharde&theme=tokyonight&show_icons=true" />
-  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=scharde&theme=github" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dollygiradkar&theme=tokyonight&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dollygiradkar&theme=tokyonight&show_icons=true" />
+  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=dollygiradkar&theme=github" />
 </div>
 
 <!-- ### 📺 Latest [YouTube][youtube] Videos
